@@ -1,11 +1,11 @@
 class TodoItem {
   /**
    * @constructor
-   * @param {string} id - required
-   * @param {string} contents - required
-   * @param {boolean} isDone - required
-   * @param {string} category - required
-   * @param {Array} tags - optional
+   * @property {string} id - required
+   * @property {string} contents - required
+   * @property {boolean} isDone - required
+   * @property {string} category - required
+   * @property {Array} tags - optional
    */
   constructor(id, contents, isDone, category, tags) {
     this.id = id;
