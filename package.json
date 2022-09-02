@@ -17,7 +17,7 @@
     "bugs": {
         "url": "https://github.com/kimsg64/wanted-pre-onboarding-challenge-fe-2/issues"
     },
-    "homepage": "https://github.com/kimsg64/wanted-pre-onboarding-challenge-fe-2#readme/",
+    "homepage": "https://github.com/kimsg64/wanted-pre-onboarding-challenge-fe-2/",
     "devDependencies": {
         "jsdoc": "^3.6.11"
     }
