@@ -1,24 +1,24 @@
 {
-  "name": "wanted-pre-onboarding-challenge-fe-2",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "jsdoc": "jsdoc -c jsdoc.json",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kimsg64/wanted-pre-onboarding-challenge-fe-2.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kimsg64/wanted-pre-onboarding-challenge-fe-2/issues"
-  },
-  "homepage": "https://github.com/kimsg64/wanted-pre-onboarding-challenge-fe-2#readme",
-  "devDependencies": {
-    "jsdoc": "^3.6.11"
-  }
+    "name": "wanted-pre-onboarding-challenge-fe-2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "jsdoc": "jsdoc -c jsdoc.json",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kimsg64/wanted-pre-onboarding-challenge-fe-2.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kimsg64/wanted-pre-onboarding-challenge-fe-2/issues"
+    },
+    "homepage": "https://github.com/kimsg64/wanted-pre-onboarding-challenge-fe-2#readme/",
+    "devDependencies": {
+        "jsdoc": "^3.6.11"
+    }
 }
